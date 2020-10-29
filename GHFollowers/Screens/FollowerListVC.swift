@@ -149,7 +149,7 @@ class FollowerListVC: UIViewController {
             // magic function for animation
             self.dataSource.apply(snapshot, animatingDifferences: true)
         }
-        // random comment here ignore
+        // random comment here ignore that is already here
     }
     
     @objc func addButtonTapped() {
